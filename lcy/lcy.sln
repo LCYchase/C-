@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lcy", "lcy\lcy.vcxproj", "{FFB7621E-E140-44D5-AD21-D5291FA06BD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFB7621E-E140-44D5-AD21-D5291FA06BD1}.Debug|x64.ActiveCfg = Debug|x64
+		{FFB7621E-E140-44D5-AD21-D5291FA06BD1}.Debug|x64.Build.0 = Debug|x64
+		{FFB7621E-E140-44D5-AD21-D5291FA06BD1}.Debug|x86.ActiveCfg = Debug|Win32
+		{FFB7621E-E140-44D5-AD21-D5291FA06BD1}.Debug|x86.Build.0 = Debug|Win32
+		{FFB7621E-E140-44D5-AD21-D5291FA06BD1}.Release|x64.ActiveCfg = Release|x64
+		{FFB7621E-E140-44D5-AD21-D5291FA06BD1}.Release|x64.Build.0 = Release|x64
+		{FFB7621E-E140-44D5-AD21-D5291FA06BD1}.Release|x86.ActiveCfg = Release|Win32
+		{FFB7621E-E140-44D5-AD21-D5291FA06BD1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E96C9CA5-F3A9-4156-92B4-D4F45394A36D}
+	EndGlobalSection
+EndGlobal
