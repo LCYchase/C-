@@ -1,0 +1,3 @@
+﻿  test.c
+g:\c\2018.1.5\乘法口诀\乘法口诀\test.c(31): warning C4098: “main”:“void”函数返回值
+  乘法口诀.vcxproj -> G:\C\2018.1.5\乘法口诀\Debug\乘法口诀.exe
