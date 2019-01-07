@@ -1,0 +1,3 @@
+﻿  test.c
+g:\c\2018.1.6\a和b俩个数组内容交换\a和b俩个数组内容交换\test.c(26): warning C4098: “main”:“void”函数返回值
+  A和B俩个数组内容交换.vcxproj -> G:\C\2018.1.6\A和B俩个数组内容交换\Debug\A和B俩个数组内容交换.exe
